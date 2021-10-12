@@ -1,6 +1,8 @@
 ## Exploring Slow Feature Analysis for Extracting Generative Latent Factors
 This code is for the paper ["Exploring Slow Feature Analysis for Generative Latent Factors" by Max Menne, Merlin Schüler, and Laurenz Wiskott](https://www.scitepress.org/PublicationsDetail.aspx?ID=wThDi/+pZGE=&t=1) published at [ICPRAM 2021](http://www.icpram.org).
 
+![Embedding](embeddings_moving_sequences.gif)
+
 ## Overview
 This repository contains the code to reproduce the experiments presented in the paper. The experiments are divided into the following files:
 1. [`analyzing_reconstructability.py`](analyzing_reconstructability.py) contains the code for the experiments in Section 3.3,
